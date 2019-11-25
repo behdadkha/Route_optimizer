@@ -3,7 +3,7 @@ Android app that helps the driver by ordering the addresses. Finds the best rout
 \
 Google play store: https://play.google.com/store/apps/details?id=my.example.googlemapsgoogleplaces
 \
-![image0](./0.jpg =250x250)
+![image0](./0.jpg | width=200 )
 
 Note:
 google api key is not included --> in MapActivity.java line 172, in string.xml and AndroidManifest.xml \
